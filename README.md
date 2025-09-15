@@ -33,7 +33,7 @@ A real-time Matplotlib graph visualizing the PID controller's performance
 1.  Connect your computer to the Tello's Wi-Fi network.
 2.  Run the application:
     ```bash
-    python pid_controller_gui.py
+    python main.py
     ```
 3.  Click `Connect` to start the communication
 4.  Set your desired **Altitude** setpoint.
